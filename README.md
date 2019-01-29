@@ -12,3 +12,4 @@ Airline users can try the [sol theme](https://github.com/vim-airline/vim-airline
 **0.0.1**
 
 - Initial commit  - some colors way off
+- Removed bold, italic and underline fonts style
