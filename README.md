@@ -1,3 +1,12 @@
+----
+
+**NOTE**
+
+Project moved to source hut:
+https://git.sr.ht/~code0x378/inspired-github-vim-colorscheme
+
+----
+
 # Inspired GitHub Color Scheme for Vim
 
 This is a very basic, incomplete vim color scheme inspired by other inspirables...  
